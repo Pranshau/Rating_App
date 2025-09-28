@@ -1,0 +1,17 @@
+# Node
+node_modules/
+npm-debug.log
+yarn-error.log
+
+# Env
+.env
+backend/.env
+frontend/.env
+
+# Build artifacts
+frontend/build/
+dist/
+
+# IDE / OS
+.vscode/
+.DS_Store
